@@ -1,0 +1,4 @@
+esta é a primeira linha
+após esta linha haverá uma linha em branco, seguida de uma linha final.
+
+aqui termina o arquivo
